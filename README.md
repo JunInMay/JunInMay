@@ -1,3 +1,5 @@
+Spring framwork, Django 를 사용하는 백엔드 개발자입니다.
+
 - SeSAC(Seoul Software Academy) 컴투스 블록체인과 게임서버 캠프 (23.10. ~ 24.02)
 
 <!---
